@@ -1,2 +1,2 @@
-# kivvota232github.io
+# kivota232github.io
 My first git site
